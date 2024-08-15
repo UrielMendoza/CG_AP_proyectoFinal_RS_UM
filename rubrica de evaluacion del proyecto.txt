@@ -1,0 +1,16 @@
+**Para todos los proyectos**
+
+* Producir predicciones
+
+* Generar un conjunto de de datos que pueda ser dividido en entrenamiento y prueba con cualquier porcentaje deseado.
+
+* Validación Cruzada para imágenes temporales. Definir un conjunto Figo como entrenamiento y otro cómo validación. Hacer solo un experimento. Reportar un error de validación y error de entrenamiento.
+
+* Mostrar la gráfica de convergencia. Ver "Visualice el progreso de entrenamiento del modelo usando las estadísticas almacenadas en el objeto history." De la página https://www.tensorflow.org/tutorials/keras/regression?hl=es-419.
+
+* Utilizar redes neuronales convolucionales.
+
+
+
+
+
